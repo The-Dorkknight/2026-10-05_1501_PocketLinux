@@ -1,0 +1,1 @@
+# No third-party packages. Needs Python 3.8+ with tkinter (included in the python.org Windows installer).

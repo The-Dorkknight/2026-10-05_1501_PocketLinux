@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+# PocketLinux runtime data (Linux disk, downloads, config)
+data/
+tests/_tmpdata/
+# Logs, IDE, OS
+*.log
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
